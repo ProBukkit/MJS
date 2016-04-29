@@ -2,7 +2,7 @@
 
 Note you need to enable developer settings
 
-Download browser application
+Download application
 <a href="https://github.com/ProBukkit/MJS/raw/master/Browser.crx" download>Browser</a>
 
 How do I download these applications?  
